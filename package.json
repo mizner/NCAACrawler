@@ -1,0 +1,11 @@
+{
+  "name": "ncaa-scrape",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "apify": "^0.15.2",
+    "moment": "^2.24.0",
+    "request-promise": "^4.2.4"
+  }
+}

@@ -1,0 +1,506 @@
+{
+  "teams": [
+    {
+      "RANK": "1",
+      "TEAM": "Davidson",
+      "G": "11",
+      "PLAYS": "793",
+      "YDS": "6181",
+      "YDS/PLAY": "7.79",
+      "OFF TDS": "68",
+      "YPG": "561.9"
+    },
+    {
+      "RANK": "2",
+      "TEAM": "Princeton",
+      "G": "10",
+      "PLAYS": "749",
+      "YDS": "5368",
+      "YDS/PLAY": "7.17",
+      "OFF TDS": "64",
+      "YPG": "536.8"
+    },
+    {
+      "RANK": "3",
+      "TEAM": "Eastern Wash.",
+      "G": "15",
+      "PLAYS": "1069",
+      "YDS": "7923",
+      "YDS/PLAY": "7.41",
+      "OFF TDS": "79",
+      "YPG": "528.2"
+    },
+    {
+      "RANK": "4",
+      "TEAM": "Samford",
+      "G": "11",
+      "PLAYS": "887",
+      "YDS": "5675",
+      "YDS/PLAY": "6.40",
+      "OFF TDS": "54",
+      "YPG": "515.9"
+    },
+    {
+      "RANK": "5",
+      "TEAM": "Jacksonville St.",
+      "G": "13",
+      "PLAYS": "997",
+      "YDS": "6465",
+      "YDS/PLAY": "6.48",
+      "OFF TDS": "66",
+      "YPG": "497.3"
+    },
+    {
+      "RANK": "6",
+      "TEAM": "Idaho St.",
+      "G": "11",
+      "PLAYS": "822",
+      "YDS": "5444",
+      "YDS/PLAY": "6.62",
+      "OFF TDS": "49",
+      "YPG": "494.9"
+    },
+    {
+      "RANK": "7",
+      "TEAM": "UC Davis",
+      "G": "13",
+      "PLAYS": "1032",
+      "YDS": "6356",
+      "YDS/PLAY": "6.16",
+      "OFF TDS": "64",
+      "YPG": "488.9"
+    },
+    {
+      "RANK": "8",
+      "TEAM": "Stetson",
+      "G": "10",
+      "PLAYS": "747",
+      "YDS": "4835",
+      "YDS/PLAY": "6.47",
+      "OFF TDS": "48",
+      "YPG": "483.5"
+    },
+    {
+      "RANK": "9",
+      "TEAM": "UIW",
+      "G": "11",
+      "PLAYS": "811",
+      "YDS": "5301",
+      "YDS/PLAY": "6.54",
+      "OFF TDS": "44",
+      "YPG": "481.9"
+    },
+    {
+      "RANK": "10",
+      "TEAM": "South Dakota St.",
+      "G": "13",
+      "PLAYS": "817",
+      "YDS": "6247",
+      "YDS/PLAY": "7.65",
+      "OFF TDS": "72",
+      "YPG": "480.5"
+    },
+    {
+      "RANK": "11",
+      "TEAM": "Yale",
+      "G": "10",
+      "PLAYS": "739",
+      "YDS": "4799",
+      "YDS/PLAY": "6.49",
+      "OFF TDS": "37",
+      "YPG": "479.9"
+    },
+    {
+      "RANK": "12",
+      "TEAM": "Nicholls St.",
+      "G": "13",
+      "PLAYS": "962",
+      "YDS": "6162",
+      "YDS/PLAY": "6.41",
+      "OFF TDS": "53",
+      "YPG": "474.0"
+    },
+    {
+      "RANK": "13",
+      "TEAM": "Alcorn",
+      "G": "13",
+      "PLAYS": "951",
+      "YDS": "6153",
+      "YDS/PLAY": "6.47",
+      "OFF TDS": "50",
+      "YPG": "473.3"
+    },
+    {
+      "RANK": "14",
+      "TEAM": "North Dakota St.",
+      "G": "15",
+      "PLAYS": "960",
+      "YDS": "7076",
+      "YDS/PLAY": "7.37",
+      "OFF TDS": "82",
+      "YPG": "471.7"
+    },
+    {
+      "RANK": "15",
+      "TEAM": "Howard",
+      "G": "10",
+      "PLAYS": "754",
+      "YDS": "4708",
+      "YDS/PLAY": "6.24",
+      "OFF TDS": "43",
+      "YPG": "470.8"
+    },
+    {
+      "RANK": "16",
+      "TEAM": "San Diego",
+      "G": "12",
+      "PLAYS": "807",
+      "YDS": "5647",
+      "YDS/PLAY": "7.00",
+      "OFF TDS": "60",
+      "YPG": "470.6"
+    },
+    {
+      "RANK": "17",
+      "TEAM": "Western Caro.",
+      "G": "11",
+      "PLAYS": "811",
+      "YDS": "5119",
+      "YDS/PLAY": "6.31",
+      "OFF TDS": "41",
+      "YPG": "465.4"
+    },
+    {
+      "RANK": "18",
+      "TEAM": "Towson",
+      "G": "12",
+      "PLAYS": "926",
+      "YDS": "5580",
+      "YDS/PLAY": "6.03",
+      "OFF TDS": "47",
+      "YPG": "465.0"
+    },
+    {
+      "RANK": "19",
+      "TEAM": "Monmouth",
+      "G": "11",
+      "PLAYS": "761",
+      "YDS": "5046",
+      "YDS/PLAY": "6.63",
+      "OFF TDS": "48",
+      "YPG": "458.7"
+    },
+    {
+      "RANK": "20",
+      "TEAM": "Prairie View",
+      "G": "11",
+      "PLAYS": "779",
+      "YDS": "5024",
+      "YDS/PLAY": "6.45",
+      "OFF TDS": "46",
+      "YPG": "456.7"
+    },
+    {
+      "RANK": "21",
+      "TEAM": "Kennesaw St.",
+      "G": "13",
+      "PLAYS": "900",
+      "YDS": "5902",
+      "YDS/PLAY": "6.56",
+      "OFF TDS": "70",
+      "YPG": "454.0"
+    },
+    {
+      "RANK": "22",
+      "TEAM": "Dayton",
+      "G": "11",
+      "PLAYS": "708",
+      "YDS": "4973",
+      "YDS/PLAY": "7.02",
+      "OFF TDS": "53",
+      "YPG": "452.1"
+    },
+    {
+      "RANK": "23",
+      "TEAM": "Eastern Ill.",
+      "G": "11",
+      "PLAYS": "847",
+      "YDS": "4903",
+      "YDS/PLAY": "5.79",
+      "OFF TDS": "44",
+      "YPG": "445.7"
+    },
+    {
+      "RANK": "24",
+      "TEAM": "Abilene Christian",
+      "G": "11",
+      "PLAYS": "869",
+      "YDS": "4832",
+      "YDS/PLAY": "5.56",
+      "OFF TDS": "42",
+      "YPG": "439.3"
+    },
+    {
+      "RANK": "25",
+      "TEAM": "Harvard",
+      "G": "10",
+      "PLAYS": "709",
+      "YDS": "4378",
+      "YDS/PLAY": "6.17",
+      "OFF TDS": "37",
+      "YPG": "437.8"
+    },
+    {
+      "RANK": "26",
+      "TEAM": "Montana",
+      "G": "11",
+      "PLAYS": "780",
+      "YDS": "4795",
+      "YDS/PLAY": "6.15",
+      "OFF TDS": "45",
+      "YPG": "435.9"
+    },
+    {
+      "RANK": "27",
+      "TEAM": "Southern Utah",
+      "G": "11",
+      "PLAYS": "901",
+      "YDS": "4787",
+      "YDS/PLAY": "5.31",
+      "OFF TDS": "36",
+      "YPG": "435.2"
+    },
+    {
+      "RANK": "28",
+      "TEAM": "Tennessee St.",
+      "G": "9",
+      "PLAYS": "652",
+      "YDS": "3892",
+      "YDS/PLAY": "5.97",
+      "OFF TDS": "32",
+      "YPG": "432.4"
+    },
+    {
+      "RANK": "29",
+      "TEAM": "Central Conn. St.",
+      "G": "11",
+      "PLAYS": "703",
+      "YDS": "4755",
+      "YDS/PLAY": "6.76",
+      "OFF TDS": "48",
+      "YPG": "432.3"
+    },
+    {
+      "RANK": "30",
+      "TEAM": "Lamar University",
+      "G": "12",
+      "PLAYS": "888",
+      "YDS": "5177",
+      "YDS/PLAY": "5.83",
+      "OFF TDS": "47",
+      "YPG": "431.4"
+    },
+    {
+      "RANK": "31",
+      "TEAM": "Southern Ill.",
+      "G": "11",
+      "PLAYS": "866",
+      "YDS": "4740",
+      "YDS/PLAY": "5.47",
+      "OFF TDS": "38",
+      "YPG": "430.9"
+    },
+    {
+      "RANK": "32",
+      "TEAM": "Wofford",
+      "G": "13",
+      "PLAYS": "854",
+      "YDS": "5554",
+      "YDS/PLAY": "6.50",
+      "OFF TDS": "49",
+      "YPG": "427.2"
+    },
+    {
+      "RANK": "33",
+      "TEAM": "Cal Poly",
+      "G": "11",
+      "PLAYS": "873",
+      "YDS": "4638",
+      "YDS/PLAY": "5.31",
+      "OFF TDS": "37",
+      "YPG": "421.6"
+    },
+    {
+      "RANK": "34",
+      "TEAM": "Sam Houston St.",
+      "G": "11",
+      "PLAYS": "850",
+      "YDS": "4618",
+      "YDS/PLAY": "5.43",
+      "OFF TDS": "39",
+      "YPG": "419.8"
+    },
+    {
+      "RANK": "35",
+      "TEAM": "Northwestern St.",
+      "G": "11",
+      "PLAYS": "821",
+      "YDS": "4610",
+      "YDS/PLAY": "5.62",
+      "OFF TDS": "40",
+      "YPG": "419.1"
+    },
+    {
+      "RANK": "36",
+      "TEAM": "Austin Peay",
+      "G": "11",
+      "PLAYS": "744",
+      "YDS": "4609",
+      "YDS/PLAY": "6.19",
+      "OFF TDS": "46",
+      "YPG": "419.0"
+    },
+    {
+      "RANK": "37",
+      "TEAM": "Illinois St.",
+      "G": "11",
+      "PLAYS": "739",
+      "YDS": "4599",
+      "YDS/PLAY": "6.22",
+      "OFF TDS": "46",
+      "YPG": "418.1"
+    },
+    {
+      "RANK": "38",
+      "TEAM": "Dartmouth",
+      "G": "10",
+      "PLAYS": "654",
+      "YDS": "4173",
+      "YDS/PLAY": "6.38",
+      "OFF TDS": "44",
+      "YPG": "417.3"
+    },
+    {
+      "RANK": "39",
+      "TEAM": "Ark.-Pine Bluff",
+      "G": "11",
+      "PLAYS": "830",
+      "YDS": "4576",
+      "YDS/PLAY": "5.51",
+      "OFF TDS": "28",
+      "YPG": "416.0"
+    },
+    {
+      "RANK": "40",
+      "TEAM": "Hampton",
+      "G": "10",
+      "PLAYS": "649",
+      "YDS": "4120",
+      "YDS/PLAY": "6.35",
+      "OFF TDS": "43",
+      "YPG": "412.0"
+    },
+    {
+      "RANK": "41",
+      "TEAM": "UT Martin",
+      "G": "11",
+      "PLAYS": "826",
+      "YDS": "4526",
+      "YDS/PLAY": "5.48",
+      "OFF TDS": "39",
+      "YPG": "411.5"
+    },
+    {
+      "RANK": "42",
+      "TEAM": "South Dakota",
+      "G": "11",
+      "PLAYS": "894",
+      "YDS": "4523",
+      "YDS/PLAY": "5.06",
+      "OFF TDS": "36",
+      "YPG": "411.2"
+    },
+    {
+      "RANK": "43",
+      "TEAM": "Bryant",
+      "G": "11",
+      "PLAYS": "842",
+      "YDS": "4522",
+      "YDS/PLAY": "5.37",
+      "OFF TDS": "44",
+      "YPG": "411.1"
+    },
+    {
+      "RANK": "44",
+      "TEAM": "Sacred Heart",
+      "G": "11",
+      "PLAYS": "737",
+      "YDS": "4505",
+      "YDS/PLAY": "6.11",
+      "OFF TDS": "39",
+      "YPG": "409.5"
+    },
+    {
+      "RANK": "45",
+      "TEAM": "Southeast Mo. St.",
+      "G": "13",
+      "PLAYS": "891",
+      "YDS": "5314",
+      "YDS/PLAY": "5.96",
+      "OFF TDS": "56",
+      "YPG": "408.8"
+    },
+    {
+      "RANK": "46",
+      "TEAM": "Central Ark.",
+      "G": "11",
+      "PLAYS": "772",
+      "YDS": "4479",
+      "YDS/PLAY": "5.80",
+      "OFF TDS": "40",
+      "YPG": "407.2"
+    },
+    {
+      "RANK": "47",
+      "TEAM": "James Madison",
+      "G": "13",
+      "PLAYS": "890",
+      "YDS": "5290",
+      "YDS/PLAY": "5.94",
+      "OFF TDS": "45",
+      "YPG": "406.9"
+    },
+    {
+      "RANK": "48",
+      "TEAM": "Southeastern La.",
+      "G": "11",
+      "PLAYS": "819",
+      "YDS": "4476",
+      "YDS/PLAY": "5.47",
+      "OFF TDS": "31",
+      "YPG": "406.9"
+    },
+    {
+      "RANK": "49",
+      "TEAM": "Murray St.",
+      "G": "11",
+      "PLAYS": "789",
+      "YDS": "4459",
+      "YDS/PLAY": "5.65",
+      "OFF TDS": "33",
+      "YPG": "405.4"
+    },
+    {
+      "RANK": "50",
+      "TEAM": "Morehead St.",
+      "G": "11",
+      "PLAYS": "851",
+      "YDS": "4451",
+      "YDS/PLAY": "5.23",
+      "OFF TDS": "41",
+      "YPG": "404.6"
+    }
+  ],
+  "url": "https://www.ncaa.com/stats/football/fcs/current/team/21",
+  "succeeded": true
+}
