@@ -5,7 +5,7 @@
   "license": "MIT",
   "devDependencies": {
     "apify": "^0.15.2",
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "request-promise": "^4.2.4"
   }
 }
